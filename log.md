@@ -57,4 +57,9 @@ Okay, now created a template directory, and "top" and "bottom" files for wrappin
 
 Now writing to a "docs" folder. And CSS is externalized. docstyle.css in /template is the master CSS file.
 
+#### 2012-10-02 18:14
+
+Starting to modularize code, and to actually write TomDocs for it (merp). Also, created a "clean out docs folder" function to run first.
+
+
 
