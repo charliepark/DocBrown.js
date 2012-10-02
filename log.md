@@ -45,3 +45,10 @@ Actually, just focusing on reading the file. Easy. What I have:
 
 So we're currently writing to output. Let's try to write to a file.
 
+Renamed "fileopen.js" to "parse.js".
+
+Okay. Added fileWrite in as part of the callback in the readFile function. Seems to be working, as a straight copy. Now to actually parse it.
+
+
+
+
