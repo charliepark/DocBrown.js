@@ -49,6 +49,8 @@ Renamed "fileopen.js" to "parse.js".
 
 Okay. Added fileWrite in as part of the callback in the readFile function. Seems to be working, as a straight copy. Now to actually parse it.
 
+#### 2012-10-02 17:43
 
+Okay, Had to make a slight adjustment, as we'll be working with the Sync versions if the file I/O.
 
 
