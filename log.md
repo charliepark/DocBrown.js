@@ -61,5 +61,5 @@ Now writing to a "docs" folder. And CSS is externalized. docstyle.css in /templa
 
 Starting to modularize code, and to actually write TomDocs for it (merp). Also, created a "clean out docs folder" function to run first.
 
-
+Taking a break. Started in on actual parser, but it isn't really working yet and needs to be further modularized.
 
