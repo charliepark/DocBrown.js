@@ -55,6 +55,6 @@ Okay, Had to make a slight adjustment, as we'll be working with the Sync version
 
 Okay, now created a template directory, and "top" and "bottom" files for wrapping the content. Gives stylesheet. We should probably extract stylesheet out, to make it easier to tweak and to decouple style from content.
 
-
+Now writing to a "docs" folder. And CSS is externalized. docstyle.css in /template is the master CSS file.
 
 
