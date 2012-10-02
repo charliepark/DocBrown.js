@@ -10,5 +10,11 @@ var fs = require('fs');
 //   });
 // });
 
-var content = fs.readFileSync('sample.js', "utf8");
-console.log(content);
+var html = fs.readFileSync('template/top.txt', "utf8");
+html += fs.readFileSync('sample.js', "utf8");
+html += fs.readFileSync('template/bottom.txt', "utf8");
+
+fs.writeFileSync("output.html", html, "utf8", function(err){
+  if (err) throw err;
+  console.log('Wrote to output.html');
+});
