@@ -72,3 +72,7 @@ Okay, I've updated name to DocBrown.js.
 #### 2012-10-03 12:27
 
 Oh, hey. Look at that. Same thought process going on over at http://doctestjs.org/. Will read up on that and report back.
+
+It's not quite the same, but [jashkenas makes a good point](https://news.ycombinator.com/item?id=4608119): "*good* tests are very rarely the same thing as good examples. Good examples often elide bits of code that aren't pertinent to the API function being demonstrated ... and good tests often involve the edge cases that are poorly suited to learning examples." So that's interesting.
+
+
