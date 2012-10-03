@@ -68,3 +68,7 @@ Taking a break. Started in on actual parser, but it isn't really working yet and
 Last night, while playing with this, I tried running various JS files through Docco, and they generated relatively well. So now planning to shift this around, and write my own specification documentation plan. More after I get coffee.
 
 Okay, I've updated name to DocBrown.js.
+
+#### 2012-10-03 12:27
+
+Oh, hey. Look at that. Same thought process going on over at http://doctestjs.org/. Will read up on that and report back.
