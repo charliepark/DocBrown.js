@@ -75,4 +75,6 @@ Oh, hey. Look at that. Same thought process going on over at http://doctestjs.or
 
 It's not quite the same, but [jashkenas makes a good point](https://news.ycombinator.com/item?id=4608119): "*good* tests are very rarely the same thing as good examples. Good examples often elide bits of code that aren't pertinent to the API function being demonstrated ... and good tests often involve the edge cases that are poorly suited to learning examples." So that's interesting.
 
+#### 2012-10-05 09:20
 
+Thinking it might be best if I just built something to extract Examples from JS documentation and throw them into Qunit. As an additional test suite, but not as the only test suite.
